@@ -19,6 +19,6 @@
             <li><a href="Booster.php">Booster</a></li>
             <li><a href="Trading.php">Trading</a></li>
             <li><a href="Login.php">Log in</a></li>
-            <li><a href="Profil.php">Profil</a></li>
+            <li><a href="Profil.php">Profile</a></li>
         </ul>
     </nav>

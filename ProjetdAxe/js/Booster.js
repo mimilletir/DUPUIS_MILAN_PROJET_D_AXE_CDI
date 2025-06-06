@@ -57,7 +57,7 @@ document.getElementById("openBoosterBtn").addEventListener("click", async () => 
             const card = document.createElement("div");
             card.className = "card";
 
-            const image = `https://ddragon.leagueoflegends.com/cdn/img/champion/loading/${champ.name}_0.jpg`;;
+            const image = `https://ddragon.leagueoflegends.com/cdn/img/champion/loading/${champ.name}_0.jpg`;
 
             card.innerHTML = `
                 <img src="${image}" alt="${champ.name}">
